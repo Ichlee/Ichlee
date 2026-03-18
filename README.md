@@ -14,13 +14,13 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
 </a>
-    <a href="https://github.com/ichlee">
-    <img 
-        alt="GitHub" 
-        title="Me siga no GitHub" 
-        width="50px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-    />
+    <a href="https://github.com/ichlee" title="Me siga no GitHub">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
+    <img alt="GitHub" width="50px" src="https://cdn.simpleicons.org/github/black">
+  </picture>
+</a>
     <a href="mailto:gabriel.works1@gmail.com">
 <img 
         alt="Gmail" 
