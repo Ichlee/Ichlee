@@ -39,7 +39,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="R"
     title="R" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
@@ -47,7 +47,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Docker"
     title="Docker" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -61,7 +61,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="MySQL"
     title="MySQL" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -69,7 +69,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -77,7 +77,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="React"
     title="React" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -85,7 +85,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -93,7 +93,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -101,7 +101,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="JQuery" 
     title="JQuery"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
@@ -109,7 +109,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="REDCap" 
     title="REDCap"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-REDCap-E31837?style=flat&logoColor=white" 
 />
@@ -117,7 +117,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Excel" 
     title="Excel"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" 
 />
@@ -125,7 +125,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Microsoft Access" 
     title="Microsoft Access"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-Access-A4373A?style=flat&logo=microsoftaccess&logoColor=white" 
 />
@@ -133,7 +133,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Looker Studio" 
     title="Looker Studio"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white" 
 />
@@ -141,7 +141,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -149,7 +149,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -157,6 +157,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
 <br/>
 <br/>
 
+---
 ### 📊 Estatísticas
 
 <p>
