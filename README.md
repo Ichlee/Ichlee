@@ -10,7 +10,7 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            width="30px"
+            width="50px"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
 </a>
@@ -18,14 +18,14 @@ Profissional graduado em Engenharia da Computação com especialização em Gest
     <img 
         alt="GitHub" 
         title="Me siga no GitHub" 
-        width="30px"
+        width="50px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
     />
-</a>
+    <a href="mailto:gabriel.works1@gmail.com">
 <img 
         alt="Gmail" 
         title="Gmail" 
-        width="50px"
+        width="80px"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     />
 
