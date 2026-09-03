@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Profissional graduado em Engenharia da Computação com especialização em Gestão de Projetos, experiente em análise e administração de bancos de dados com MySQL, Microsoft Access, Supabase e Firebase. Conhecimento e experiência em DDL, DML e queries SQL. Desenvolve códigos e projetos utilizando R, Epi Info, Docker, Vercel, Google AI Studio e Lovable, com habilidade em modelagem de dados, automação de processos, visualização e análise de dados em Excel e metodologias ágeis, buscando transformar dados em insights estratégicos para impulsionar resultados de negócio. Hoje trabalhando com análise de dados!
+Profissional graduado em Engenharia da Computação com especialização em Gestão de Projetos, experiente em análise e administração de bancos de dados com MySQL, Microsoft Access, Supabase e Firebase. Conhecimento e experiência em DDL, DML e queries SQL. Desenvolve códigos e projetos utilizando R, Epi Info, Docker, Vercel, Google AI Studio e Lovable, com habilidade em modelagem de dados, automação de processos, visualização e análise de dados em Excel e metodologias ágeis, buscando transformar dados em insights estratégicos para impulsionar resultados de negócio. Hoje trabalhando com análise de dados e estudando PowerBI e desenvolvendo dashboards com esta ferramenta
 
 <p align="left" style="display: flex; align-items: center; gap: 16px;">
 
